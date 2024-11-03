@@ -25,32 +25,38 @@ const thai = {
 
 ## Skill Set:
 
-<table><tr><td valign="top" width="25%">
-
-### Frontend  
-<a href="https://github.com/VishnuVuggepalli">
-<div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js&perline=4" /> 
-</div>
-</a>
- </td><td valign="top" width="25%">
-        
-### Languages
-<a href="https://github.com/VishnuVuggepalli">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python,&perline=4" /> 
-</div>
-</a>
-
-</td><td valign="top" width="25%">
-  
-### Others
-<a href="https://github.com/VishnuVuggepalli">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel,discord,vscodeqt&perline=4" /> 
-</div>
-</a>
-</td>
+<table>
+  <tr>
+  </td><td valign="top" width="25%">
+    ## Languages and Frameworks
+    <a href="https://github.com/VishnuVuggepalli">
+    <div align="center">
+           <img src="https://skillicons.dev/icons?i=c,java,python,spring,django,cpp,js,dotnet&perline=8" /> 
+    </div>
+    </a>
+  </tr>
+  <tr><td valign="top" width="25%">
+    ## Frontend and UI/UX 
+    <a href="https://github.com/VishnuVuggepalli">
+    <div align="center">  
+           <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js&perline=4" /> 
+    </div>
+    </a>
+  </td><td valign="top" width="25%">     
+    ## Backend and Cloud
+    <a href="https://github.com/VishnuVuggepalli">
+    <div align="center">
+           <img src="https://skillicons.dev/icons?i=aws,gcp,azure&perline=4" /> 
+    </div>
+    </a>
+  </td><td valign="top" width="25%">
+    ## Mentions
+    <a href="https://github.com/VishnuVuggepalli">
+    <div align="center">
+           <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel,discord,vscodeqt&perline=4" /> 
+    </div>
+    </a>
+    </td>
 </tr></table>
 
 
@@ -62,8 +68,6 @@ const thai = {
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
           <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
