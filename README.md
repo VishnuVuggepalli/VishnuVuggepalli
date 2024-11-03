@@ -13,7 +13,11 @@ const thai = {
                         Contributor: "AsuTRANSFORMERS"
                       },
  challenge: "I am doing the #100DaysOfCode challenge to build a rapid prototype."
- aboutMe : "As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud Computing, Artificial Intelligence/Machine Learning, and high-quality streaming technologies. With a proven track record of driving innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments."
+ aboutMe : "As a versatile Computer Engineer and Full-Stack Developer,\n
+            I specialize in Cloud Computing, Artificial Intelligence/Machine Learning, and high-quality streaming technologies.\n
+            With a proven track record of driving innovation,\n
+            I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology.\n
+            My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments."
 }
 ```
 
