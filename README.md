@@ -1,26 +1,23 @@
-<h1 align="center">Hi, I'm Vishnu <img src="https://64.media.tumblr.com/4b3b0287ca43ce1021340cd692f65f9f/tumblr_mj7iufgKNi1qghl49o1_500.gifv" width="50"></h1>
+<h1 align="center">Hi 👋, I'm Vishnu <img src="https://64.media.tumblr.com/4b3b0287ca43ce1021340cd692f65f9f/tumblr_mj7iufgKNi1qghl49o1_500.gifv" width="50"></h1>
 
 ```javascript
 const thai = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  code: [Java, Spring, Spring-boot, Python, C#, RESTFul, Asp .Net, .Net Core, SQL, Angular, React Js,
+          Node js, Next JS, React Native, Typescript, Git, Linux, Tableau, JavaScript, C++, C, PLSQL, PySpark, Scala, PyTorch, Terraform],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  architecture: ["microservices", "event-driven", "design system pattern", "test driven", "Enterprise"],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+                        Founder: "CodeIndia",
+                        Designer: "GCTC Portal",
+                        Contributor: "AsuTRANSFORMERS"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am doing the #100DaysOfCode challenge to build a rapid prototype."
+ aboutMe : "As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud Computing, Artificial Intelligence/Machine Learning, and high-quality streaming technologies. With a proven track record of driving innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments."
 }
 ```
 
-<!--- 👨‍💻 All of my projects are available at [https://vishnuvuggepalli.github.io/](https://vishnuvuggepalli.github.io/) -->
-
-<h2 align="center">🚀 About Me</h2>
-
-As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud Computing, Artificial Intelligence/Machine Learning, and high-quality streaming technologies. With a proven track record of driving innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
-
+👨‍💻 All of my projects are available at [https://vishnuvuggepalli.github.io/](https://vishnuvuggepalli.github.io/) 
 
 ## Skill Set:
 
@@ -65,4 +62,3 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnuvuggepalli&show_icons=true&locale=en" alt="vishnuvuggepalli" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnuvuggepalli&" alt="vishnuvuggepalli" /></p>
