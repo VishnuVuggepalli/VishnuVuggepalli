@@ -3,22 +3,19 @@
 
 ```javascript
 const thai = {
-  pronouns: "he" | "him",
-  code: [Java, Spring, Spring-boot, Python, C#, RESTFul, Asp .Net, .Net Core, SQL, Angular, React Js,
-          Node js, Next JS, React Native, Typescript, Git, Linux, Tableau, JavaScript, C++, C, PLSQL, PySpark, Scala, PyTorch, Terraform],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern", "test driven", "Enterprise"],
+  profession : Full Stack Developer,
+  architecture: [Microservices, Event-Driven, Test-Driven, Enterprise],
   techCommunities: {
                         Founder: "CodeIndia",
                         Designer: "GCTC Portal",
                         Contributor: "AsuTRANSFORMERS"
                       },
  challenge: "I am doing the #100DaysOfCode challenge to build a rapid prototype."
- aboutMe : "As a versatile Computer Engineer and Full-Stack Developer,
-            I specialize in Cloud Computing, Artificial Intelligence/Machine Learning, and high-quality streaming technologies.
-            With a proven track record of driving innovation,
-            I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology.
-            My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments."
+ aboutMe : As a versatile Computer Engineer and Full-Stack Developer,
+          I specialize in Cloud Computing, Artificial Intelligence/Machine Learning, and high-quality streaming technologies.
+          With a proven track record of driving innovation,
+          I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology.
+          My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
 }
 ```
 
