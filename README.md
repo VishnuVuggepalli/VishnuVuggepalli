@@ -2,7 +2,7 @@
 
 
 ```javascript
-const thai = {
+const hey = {
   profession : Full Stack Developer,
   architecture: [Microservices, Event-Driven, Test-Driven, Enterprise],
   techCommunities: {
