@@ -28,7 +28,7 @@ const hey = {
     <h4>Languages and Frameworks</h4>
     <a href="https://github.com/VishnuVuggepalli">
     <div align="center">
-           <img src="https://skillicons.dev/icons?i=c,java,python,spring,django,cpp,js,dotnet&perline=8" /> 
+           <img src="https://skillicons.dev/icons?i=cpp,java,python,spring,go,cpp,js,dotnet&perline=8" /> 
     </div>
     </a>
   </td>
