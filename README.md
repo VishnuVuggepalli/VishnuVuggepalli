@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishnu <img src="https://64.media.tumblr.com/4b3b0287ca43ce1021340cd692f65f9f/tumblr_mj7iufgKNi1qghl49o1_500.gifv" width="50"></h1>
+<h1 align="center">👋 Welcome to my <img src="https://64.media.tumblr.com/4b3b0287ca43ce1021340cd692f65f9f/tumblr_mj7iufgKNi1qghl49o1_500.gifv" width="50"></h1>
 
 
 ```javascript
@@ -11,7 +11,7 @@ const hey = {
                         Contributor: "AsuTRANSFORMERS"
                       },
  challenge: "I am doing the #100DaysOfCode challenge to build a rapid prototype."
- aboutMe : As a versatile Computer Engineer and Full-Stack Developer,
+ aboutMe : As a versatile Computer Engineer and Developer,
           I specialize in Cloud Computing, Artificial Intelligence/Machine Learning, and high-quality streaming technologies.
           With a proven track record of driving innovation,
           I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology.
@@ -77,3 +77,5 @@ const hey = {
 <a href="https://www.leetcode.com/u/vishnuvuggepalli6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishnuvuggepalli" height="30" width="40" /></a>
 </p>
 
+### 🛳 &nbsp;Visiter Counter
+<img src="https://profile-counter.glitch.me/lucian_zhao/count.svg" />
